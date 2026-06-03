@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pk2428
+- 👋 Hi, I’m Piyush Kushwaha
 - 👀 I’m interested in ...creating software 
-- 🌱 I’m currently learning ...DSA,Web development,vedio editing.
+- 🌱 I’m currently learning ...DSA C++ ,Web development.
 - 💞️ I’m looking to collaborate on ...Open Source,freelancing
   
 - 📫 How to reach me ...
